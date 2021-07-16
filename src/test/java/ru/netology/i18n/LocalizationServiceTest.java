@@ -5,6 +5,7 @@ import org.junit.jupiter.api.Test;
 import ru.netology.entity.Country;
 
 public class LocalizationServiceTest {
+
     @Test
     void test_localizationServiceImpl() {
         LocalizationServiceImpl localizationService = new LocalizationServiceImpl();

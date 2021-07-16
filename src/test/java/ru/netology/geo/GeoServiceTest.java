@@ -6,6 +6,7 @@ import ru.netology.entity.Country;
 import ru.netology.entity.Location;
 
 public class GeoServiceTest {
+
     @Test
     void test_geoServiceImpl() {
         GeoServiceImpl geoService = new GeoServiceImpl();
